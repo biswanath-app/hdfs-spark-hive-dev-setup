@@ -1,4 +1,4 @@
-# HDFS/Spark/Hive Local Development Setup
+# HDFS/Spark/Hive Development Setup
 
 This repository provides the installation instructions for
 * Hadoop 2.7.2,
